@@ -1,0 +1,2 @@
+# -0-03-9-41-Effective-Tracing-and-Tracking-of-E-Waste-Using-Block-Chain-using-java-JSP-with-MYSQL.
+The escalating volume of electronic waste (e-waste) poses significant environmental and health risks, necessitating robust systems for effective management and recycling. Traditional tracking mechanisms often suffer from inefficiencies and lack of transparency, impeding efforts to ensure proper disposal and recycling of e-waste. 
